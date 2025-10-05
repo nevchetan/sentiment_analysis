@@ -1,0 +1,11 @@
+# Python environment files
+__pycache__/
+*.pyc
+
+
+# Data and Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
