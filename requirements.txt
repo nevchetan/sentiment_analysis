@@ -1,11 +1,6 @@
-pip install Flask gunicorn numpy tensorflow h5py pymongo
-
-
-
-
-numpy
-
-h5py
- 
-MongoDB Driver
-pymongo
+Flask ;
+gunicorn;
+tensorflow;
+numpy;
+h5py;
+pymongo;
